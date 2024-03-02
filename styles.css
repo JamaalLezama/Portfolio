@@ -33,7 +33,7 @@ a {
 }
 
 /* put the image to the top left of the page */
-img {
+.portrait {
   width: 5%;
   padding-left: 130px;
   padding-bottom: 10px;
