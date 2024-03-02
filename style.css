@@ -1,0 +1,63 @@
+/* changes elements for most of the page */
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: lightgray;
+}
+/* changes to the elements at the top of the page */
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+h2 {
+  color: #333;
+  text-align: center;
+}
+
+main {
+  padding: 20px;
+}
+section {
+  margin-bottom: 20px;
+}
+
+/* colors links */
+a {
+  color: teal;
+  text-decoration: none;
+}
+
+/* put the image to the top left of the page */
+img {
+  width: 60%;
+  padding-left: 130px;
+  padding-bottom: 10px;
+}
+
+ol {
+  text-align: center;
+}
+/* changes links to look green */
+.btn {
+  display: inline-block;
+  font-family: arial, sans-serif;
+  font-size: 16px;
+  text-align: center;
+  text-decoration: none;
+  margin: 10px;
+  padding: 6px 12px;
+  border-radius: 6px;
+  color: #333;
+  background-color: green;
+  border: 1px solid #ccc;
+}
+
+h4 {
+  color: #333;
+  text-align: center;
+}
