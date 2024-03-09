@@ -54,7 +54,7 @@ a {
   border: 1px solid #ccc;
 }
 
-h4 {
+h3 {
   color: #333;
   text-align: center;
 }
@@ -69,8 +69,4 @@ ol {
 
 ul {
   padding-left: 100px;
-}
-
-.class {
-  text-align: center;
 }
