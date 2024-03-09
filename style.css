@@ -64,11 +64,11 @@ p {
 }
 
 ol {
-  text-align: center;
+  padding-left: 100px;
 }
 
 ul {
-  text-align: center;
+  padding-left: 100px;
 }
 
 .class {
