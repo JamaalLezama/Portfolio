@@ -64,9 +64,11 @@ p {
 }
 
 ol {
-  text-align: center;
+  display: table;
+  margin: 0 auto;
 }
 
 ul {
-  text-align: center;
+  display: table;
+  margin: 0 auto;
 }
